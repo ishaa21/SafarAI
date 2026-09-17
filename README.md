@@ -2,10 +2,6 @@
 
 Welcome to **SafarAI - AI Travel Planner**, an intelligent multi-agent travel planning assistant powered by Google ADK, Google GenAI (Gemini), and the Model Context Protocol (MCP) server for Google Maps.
 
-## 🚀 Live Demo
-Experience the live application here:
-**[SafarAI Travel Planner](https://travel-planner-648281661119.us-central1.run.app/)**
-
 ## 📖 Overview
 
 This project showcases how to connect AI Agents to Real-World Data using **MCP (Model Context Protocol)**. It integrates Google Maps into the reasoning pipeline of the AI agent, allowing it to:
